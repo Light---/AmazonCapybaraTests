@@ -1,0 +1,1 @@
+delete_multiple_of_an_item.rb
