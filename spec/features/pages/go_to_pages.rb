@@ -8,5 +8,14 @@ module Pages
 			expect(self).to have_content 'Amazon.co.uk'
 		end
 
+
+
+
+
+
+
+
+		
+
 	end
 end	
