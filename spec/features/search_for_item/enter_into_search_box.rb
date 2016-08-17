@@ -9,6 +9,6 @@ RSpec.feature 'Search for an items' do
     go_to_pages.visit_home_page
   end
 
-  scenario '' do
-
-end
+  scenario 'Search for an item that is sold in Amazon.co.uk' do
+    search_for_item.Search_for_an_item_that_is_sold_in_Amazon
+  end
