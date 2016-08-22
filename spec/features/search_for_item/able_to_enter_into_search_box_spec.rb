@@ -9,7 +9,5 @@ RSpec.feature 'Search for an items' do
     go_to_pages.visit_home_page
   end
 
-  scenario 'Search for an item that is sold in Amazon.co.uk' do
-   	search_for_item.Able_to_enter_in_search_box
-    search_for_item.Search_for_an_item_that_is_sold_in_Amazon
-  end
+  scenario 'Able to enter into search box' do
+    search_for_item.Able_to_enter_in_search_box
